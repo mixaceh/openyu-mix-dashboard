@@ -1,1 +1,1 @@
-# openyu-mix-dashboard
+# OpenYu Mysterious I X Dashboard
